@@ -1,8 +1,8 @@
 # 👩🏻‍💻 code#-2022
 
-Lasted over a week from 28 February 2022 - 4 March 2022.
+Lasted over 5 days from 28 February 2022 - 4 March 2022.
 
-Check out the official site here: [Link]
+Check out the official site here: [Link](https://codesharp.ellipsiscodes.com/)
 
 # 🎖 5th on Leaderboard! :)
 
