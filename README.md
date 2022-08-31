@@ -8,7 +8,7 @@ Check out the official site here: [Link](https://codesharp.ellipsiscodes.com/)
 
 But I got an incomplete question :( 
 
-[Day 4][Hard] [High Rise](https://www.hackerrank.com/contests/code-22-1/challenges/day-4hard-high-rise)
+[[Day 4][Hard] High Rise](https://www.hackerrank.com/contests/code-22-1/challenges/day-4hard-high-rise)
 
 In a 7x7 grid, we want to place buildings in each square given some clues.
 
