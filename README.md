@@ -1,6 +1,8 @@
 # code#-2022
 
-Incomplete question: 
+## 🎖 5th on Leaderboard! :)
+
+But I got an incomplete question :( 
 
 [Day 4][Hard] High Rise ("https://www.hackerrank.com/contests/code-22-1/challenges/day-4hard-high-rise")
 
